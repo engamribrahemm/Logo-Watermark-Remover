@@ -1,0 +1,5 @@
+{
+  "name": "Logo remover",
+  "description": "An AI-powered tool that automatically identifies and removes logos or branding from your designs while preserving original quality and aspect ratio using Gemini Flash Image editing capabilities.",
+  "requestFramePermissions": []
+}
